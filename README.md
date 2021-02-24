@@ -29,7 +29,7 @@ $ py 3rd.py
 ```
 
 # 4. Basic Web Crawler
-CI/CD version that automatically deployed on Cloud Run is [here](https://gitlab.com/BlacZman/api_getlogo)
+CI/CD version that automatically deployed on Cloud Run can be found [here](https://gitlab.com/BlacZman/api_getlogo)
 ## 4.1. Extract Data from Source HTML
 To run the code. type this in '4' folder.
 ```
