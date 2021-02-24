@@ -63,16 +63,16 @@ $ pip install -r requirements.txt
 * and you need to uncomment these 2 lines in the file `4th-2.py`.
 ```
 .. |
-28 | 
-29 | # if __name__ == "__main__":
-30 | #     app.run(port=8000)
+36 | 
+37 | # if __name__ == "__main__":
+38 | #     app.run(port=8000)
 ```
 * to
 ```
 .. |
-28 | 
-29 | if __name__ == "__main__":
-30 |     app.run(port=8000)
+36 | 
+37 | if __name__ == "__main__":
+38 |     app.run(port=8000)
 ```
 * Then run this code in your terminal.
 ```
