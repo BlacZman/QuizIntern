@@ -7,6 +7,8 @@ This repository is created for theinternship.io program.
 * [Floating Prime](#2-floating-prime)
 * [Digit Hangman](#3-digit-hangman)
 * [Basic Web Crawler](#4-basic-web-crawler)
+* * [Extract Data from Source HTML](#41-extract-data-from-source-html)
+* * [API](#42-api-extract-data-from-source-html)
 
 # 1. Sorting Acronyms
 To run the code. type this in '1' folder.
@@ -27,7 +29,7 @@ $ py 3rd.py
 ```
 
 # 4. Basic Web Crawler
-
+CI/CD version that automatically deployed on Cloud Run is [here](https://gitlab.com/BlacZman/api_getlogo)
 ## 4.1. Extract Data from Source HTML
 To run the code. type this in '4' folder.
 ```
@@ -35,7 +37,6 @@ $ py 4th-1.py
 ```
 
 ## 4.2. [API] Extract Data from Source HTML
-CI/CD version that automatically deployed on Cloud Run is [here](https://gitlab.com/BlacZman/api_getlogo)
 ### Directly access to API
 * https://logocompanies-dm4dse37vq-as.a.run.app/companies to access this api without running the code.
 ### Open the API by Docker
