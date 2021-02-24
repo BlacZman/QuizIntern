@@ -1,0 +1,9 @@
+{
+    "folders": [{
+            "path": "."
+        }],
+    "settings": {
+        "editor.detectIndentation": false,
+        "python.pythonPath": "C:\\Users\\inkst\\AppData\\Local\\Programs\\Python\\Python38\\python.exe"
+    }
+}
