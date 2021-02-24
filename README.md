@@ -39,7 +39,7 @@ $ py 4th-1.py
 ## 4.2. [API] Extract Data from Source HTML
 ### Directly access to API
 * https://logocompanies-dm4dse37vq-as.a.run.app/companies to access this api without running the code.
-### Open the API by Docker
+### Docker
 If you have [Docker](https://www.docker.com/) you can use either
 #### Default docker
 * Run this code.
