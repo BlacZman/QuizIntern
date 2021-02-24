@@ -2,6 +2,12 @@
 
 This repository is created for theinternship.io program.
 
+# Table of contents
+* [Sorting Acronyms](#1-sorting-acronyms)
+* [Floating Prime](#2-floating-prime)
+* [Digit Hangman](#3-digit-hangman)
+* [Basic Web Crawler](#4-basic-web-crawler)
+
 # 1. Sorting Acronyms
 To run the code. type this in '1' folder.
 ```
