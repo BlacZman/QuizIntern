@@ -29,6 +29,7 @@ $ py 4th-1.py
 ```
 
 ## 4.2. [API] Extract Data from Source HTML
+CI/CD version that automatically deployed on Cloud Run is [here](https://gitlab.com/BlacZman/api_getlogo)
 ### Directly access to API
 * https://logocompanies-dm4dse37vq-as.a.run.app/companies to access this api without running the code.
 ### Open the API by Docker
